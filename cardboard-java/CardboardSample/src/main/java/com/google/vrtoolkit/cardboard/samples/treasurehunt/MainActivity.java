@@ -45,7 +45,7 @@ import javax.microedition.khronos.egl.EGLConfig;
 public class MainActivity extends CardboardActivity implements CardboardView.StereoRenderer {
 
   private static final String TAG = "MainActivity";
-
+//hello erik
   private static final float Z_NEAR = 0.1f;
   private static final float Z_FAR = 100.0f;
 
