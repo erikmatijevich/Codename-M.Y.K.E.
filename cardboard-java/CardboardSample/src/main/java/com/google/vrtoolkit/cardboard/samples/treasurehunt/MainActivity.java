@@ -452,7 +452,7 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
       overlayView.show3DToast("Found it! Look around for another one.\nScore = " + score);
       hideObject();
     } else {
-      overlayView.show3DToast("Look around to find the object!");
+      overlayView.show3DToast("Look around to zach the object!");
     }
 
     // Always give user feedback.
